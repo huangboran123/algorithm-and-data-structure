@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  数据结构课程设计.cpp
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(118,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(118,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(118,11): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(118,11): message : 此参数用作缓冲区大小
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(451,54): warning C4474: printf: 格式字符串中传递的参数太多
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(451,54): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(450,6): warning C4101: “i”: 未引用的局部变量
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(1465,13): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(528): warning C4715: “MultSMatrixs”: 不是所有的控件路径都返回值
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(493): warning C4715: “TransposeSMatrix”: 不是所有的控件路径都返回值
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(674): warning C4715: “PostOderTraverse”: 不是所有的控件路径都返回值
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(662): warning C4715: “InOderTraverse”: 不是所有的控件路径都返回值
+D:\mycProject\datastruct\数据结构课程设计\数据结构课程设计.cpp(777): warning C4715: “Parent”: 不是所有的控件路径都返回值
+  数据结构课程设计.vcxproj -> D:\mycProject\datastruct\x64\Debug\数据结构课程设计.exe
